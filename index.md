@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Bos Software Consulting"
 ---
 ## Backend & Systems Software for Reliable Apps
 
