@@ -1,7 +1,3 @@
----
-layout: page
-title: "Bos Software Consulting"
----
 ## Backend & Systems Software for Reliable Apps
 
 I help startups and small teams build correct, performant backend systems and internal tools using C++ and Rust.
